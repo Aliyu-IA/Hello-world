@@ -12,4 +12,4 @@ while guess_limit > guess_count:
     if guess_count == 3:
         print('Sorry, You have Failed')
     else:
-        print('Try again')
+        print('Try again!')
