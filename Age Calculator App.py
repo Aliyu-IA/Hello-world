@@ -10,3 +10,5 @@ what_is_your_age = int(input("Age? "))
 # Substract current year with age to get the year you were born
 year_you_were_born = now.year - what_is_your_age
 print(f'You were born in : {year_you_were_born}')
+
+Print("Thank you for using my app")
